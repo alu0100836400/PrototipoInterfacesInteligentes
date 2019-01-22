@@ -13,6 +13,20 @@ Las mecánicas que se eligieron para ese juego son sencillas, ya que se escogier
 * Para finalizar el juego, el jugador deberá encontrar las diferentes llaves que están escondidas a lo largo del mapa del juego. Una vez el jugador se encuentra con una llave tiene que mirarla para recogerla y tenerla en su inventario. Como esta mecánica no se explica de manera explicita en ningún punto del juego se ha puesto una llave delante del usuario nada mas empezar la partida, para que le sirva de tutorial y sea obvio lo que tiene que hacer para ganar.
 
 ## Assets utilizados
+* El más utilizado fue "Decrepit Dungeon LITE", un asset muy completo compuesto por componentes de mazmorras. Consta de muros y puertas(utilizados sólo en la sala del calabozo), antorchas, mesas, sillas, escaleras y una buena cantidad de objetos de decoración como barriles, cadenas...
+* "Dark Fantasy Kit [Free]" posee elementos de dormitorio como una cama, un armario, un escritorio...
+* "Morgue Room PBR" usado para la sala de autopsias.
+* "LowPoly Dungeon Modules" tiene más objetos decorativos.
+* "Free Rug Pack" contiene 3 alfombras diferentes.
+* "Classic Picture Frame" tiene un cuadro.
+* "Rusty Pack Models" para elementos de baño con aspecto descuidado. Usado para el calabozo.
+* "Old Military Bed" camas de literas para el calabozo y otra sala pequeña.
+* "Medieval Gold" lingotes y monedas de oro para la sala del tesoro.
+* "Skull Platform" plataforma de calavera.
+* "Classic Treasure Box" simple cofre del tesoro.
+* "Egyptian Tomb: Cat Statue" estatua de gato.
+* "Golden Dragon Statue" estatua de dragón.
+* "Horror Axe" hacha con sangre.
 
 ## Hitos logrados (dificultades que se logró resolver)
 
